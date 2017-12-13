@@ -1,0 +1,23 @@
+{
+  "name": "unit-global",
+  "version": "0.1.0",
+  "description": "Clase en JS que permite manejar unidades de medida, peso, etc...",
+  "main": "dist/UnitGlobal.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Pedro Caicedo <caicedo1089@gmail.com> (http://pcaicedo.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caicedo1089/unit-global"
+  },
+  "homepage": "https://github.com/caicedo1089/unit-global",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "mocha": "^4.0.1"
+  }
+}
